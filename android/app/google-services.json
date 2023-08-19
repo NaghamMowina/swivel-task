@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933852656874",
+    "project_id": "swivel-task",
+    "storage_bucket": "swivel-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933852656874:android:64fd76df1b5394f00f1393",
+        "android_client_info": {
+          "package_name": "com.example.swivel_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933852656874-b88cfmk1fmbgqtk01ph0lbq63umbsbua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt7i73Fl-LBt0fMXkTF74VTXcUkQ16j5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933852656874-b88cfmk1fmbgqtk01ph0lbq63umbsbua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
